@@ -49,9 +49,9 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-# WAY
+# Think simple!
 
-Think simple!
+참쉽조잉?
 
 ```mermaid {theme: 'neutral', scale: 0.8}
 graph TD
@@ -59,8 +59,19 @@ JS[JS] --> W{WEB PAGE}
 HTML[HTML] --> W
 CSS[CSS] --> W
 
-Q[QUASAR] --> V3[VUE3] --> WA{WEB APP}
+Q[QUASAR] --> V3[Vue3] --> WA{WEB APP}
 ```
+
+---
+
+# hello Vue3
+
+``` python
+print("hello Vue3")
+```
+---
+
+# 2 vs 3
 
 ---
 
