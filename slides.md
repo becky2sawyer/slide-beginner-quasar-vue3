@@ -23,13 +23,13 @@ drawings:
 css: unocss
 ---
 
-# Welcome to Slidev
+# Development of the FE in the Age of Chaos
 
-Presentation slides for developers
+VUE, QUASAR from the data engineer's engineer
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
+    I CAN DO <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
@@ -46,6 +46,21 @@ Presentation slides for developers
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
+
+---
+
+# WAY
+
+Think simple!
+
+```mermaid {theme: 'neutral', scale: 0.8}
+graph TD
+JS[JS] --> W{WEB PAGE}
+HTML[HTML] --> W
+CSS[CSS] --> W
+
+Q[QUASAR] --> V3[VUE3] --> WA{WEB APP}
+```
 
 ---
 

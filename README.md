@@ -9,3 +9,13 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev on [documentations](https://sli.dev/).
+
+
+# deploy
+```
+npm run build
+mv dist docs
+git add .
+git commit -m "hello diginori"
+git push
+```
