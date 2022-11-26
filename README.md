@@ -13,9 +13,9 @@ Learn more about Slidev on [documentations](https://sli.dev/).
 
 # deploy
 ```
-npm run build
+yarn run slidev build
 mv dist docs
 git add .
-git commit -m "hello diginori"
+git commit -m "yarn run slidev build"
 git push
 ```
